@@ -53,8 +53,8 @@ O exemplo utiliza um template padrão do [StartBootstrap](https://startbootstrap
 ### Passos finais:
 5. **Clonar o repositório na VM**:
     ```
-    git clone https://github.com/seuusuario/seurepo.git
-    cd seurepo
+    git clone https://github.com/AzumaNoDoragon/dockerCompose
+    cd dockerCompose
     ```
 
 6. **Adicionar os arquivos do site na pasta website/**.
