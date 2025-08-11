@@ -17,12 +17,12 @@ O exemplo utiliza um template padrão do [StartBootstrap](https://startbootstrap
 
 ## Estrutura de Pastas
     .
-    ├── docker-compose.yml
+    ├── compose.yml
     └── website/
-    ├── index.html
-    ├── css/
-    ├── js/
-    └── assets/
+        ├── index.html
+        ├── css/
+        ├── js/
+        └── assets/
 
 > [Notas]
 > - A pasta `website` contém os arquivos do seu site.  
