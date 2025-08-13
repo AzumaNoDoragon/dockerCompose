@@ -61,7 +61,7 @@ O exemplo utiliza um template padrão do [StartBootstrap](https://startbootstrap
 
 7. **Subir o container**:
     ```
-    docker compose up -d
+    sudo docker compose up -d
     ```
 
 8. **Acessar no navegador usando o IP público da sua VM**:
@@ -70,7 +70,7 @@ O exemplo utiliza um template padrão do [StartBootstrap](https://startbootstrap
 
 9. **Como Parar:**
     ```
-    docker compose down
+    sudo docker compose down
     ```
 
 ## Observações
